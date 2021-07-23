@@ -125,7 +125,7 @@ class HomePageState extends State<HomePage> {
               child: Divider(
               ),
             ),
-            WorldWidePanel(stateData),
+            CountryPanel(stateData),
             SizedBox(
               height: 10,
             ),
