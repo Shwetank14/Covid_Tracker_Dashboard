@@ -2,16 +2,17 @@
 =======
 
  *A Covid19 Tracker Dashboard which displays the Real time covid cases in India
- <img src = "Screens/home.jpg" width=400>
+ 
+ *<img src = "Screens/home.jpg" width=250>
  
  
  *Viewing statewise cases also available
  
- <img src = "Screens/region.jpg" width=400>
+ *<img src = "Screens/region.jpg" width=250>
  
  *Can also find the availability of vaccination slots using postal pincode
 
-<img src = "Screens/find.jpg" width=400> <img src = "Screens/slots.jpg" width=400>
+*<img src = "Screens/find.jpg" width=250> <img src = "Screens/slots.jpg" width=250>
 
 
 ### APIs Used
