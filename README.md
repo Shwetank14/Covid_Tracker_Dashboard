@@ -1,24 +1,24 @@
 # Covid19_Tracker_Dashboard
 =======
 
- *A Covid19 Tracker Dashboard which displays the Real time covid cases in India
+ * A Covid19 Tracker Dashboard which displays the Real time covid cases in India using FLutter and Dart
  
- *<img src = "Screens/home.jpg" width=250>
+ <img src = "Screens/home.jpg" width=250>
  
  
- *Viewing statewise cases also available
+ * Viewing statewise cases also available
  
  *<img src = "Screens/region.jpg" width=250>
  
- *Can also find the availability of vaccination slots using postal pincode
+ * Can also find the availability of vaccination slots using postal pincode
 
-*<img src = "Screens/find.jpg" width=250> <img src = "Screens/slots.jpg" width=250>
+ <img src = "Screens/find.jpg" width=250> <img src = "Screens/slots.jpg" width=250>
 
 
 ### APIs Used
-   *Covid19 India: [https://api.covid19india.org/data.json](https://api.covid19india.org/data.json)
+   * Covid19 India: [https://api.covid19india.org/data.json](https://api.covid19india.org/data.json)
    
-   *API SETU: [https://cdn-api.co-vin.in/api/v2/appointment/sessions/public/findByPin?pincode=110001&date=31-03-2021](https://cdn-api.co-vin.in/api/v2/appointment/sessions/public/findByPin?pincode=110001&date=31-03-2021)
+   * API SETU: [https://cdn-api.co-vin.in/api/v2/appointment/sessions/public/findByPin?pincode=110001&date=31-03-2021](https://cdn-api.co-vin.in/api/v2/appointment/sessions/public/findByPin?pincode=110001&date=31-03-2021)
 
 ## Getting Started
 
