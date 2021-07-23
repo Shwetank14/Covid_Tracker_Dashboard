@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 
-class WorldWidePanel extends StatelessWidget {
+class CountryPanel extends StatelessWidget {
   // ignore: non_constant_identifier_names
 
   final List stateData;
   // ignore: non_constant_identifier_names
-  WorldWidePanel(this.stateData);
+  CountryPanel(this.stateData);
 
   @override
   Widget build(BuildContext context) {
@@ -101,71 +101,3 @@ class StatusPanel extends StatelessWidget {
         ));
   }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/*
-
-Container(
-      height: 80,
-      width: width / 2,
-      margin: EdgeInsets.all(10),
-      padding: EdgeInsetsDirectional.all(10),
-      color: panelColor,
-      child: Card(
-          child: Column(
-        mainAxisAlignment: MainAxisAlignment.center,
-        children: <Widget>[
-          Text(
-            '$title \n',
-            style: TextStyle(
-                fontWeight: FontWeight.bold, fontSize: 18, color: textColor),
-          ),
-          Text(
-            count,
-            style: TextStyle(
-                fontWeight: FontWeight.bold, fontSize: 18, color: textColor),
-          )
-        ],
-      )),
-    );
-
-    */
