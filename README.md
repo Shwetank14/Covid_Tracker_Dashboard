@@ -1,18 +1,19 @@
 # Covid19_Tracker_Dashboard
-=======
 
- * A Covid19 Tracker Dashboard which displays the Real time covid cases in India using FLutter and Dart
+ * A Covid19 Tracker Dashboard which displays the Real time covid cases in India using FLutter and Dart which includes the functionality of finding slots for the vaccination using the postal pinCode of the region and displaying the Confirmed, Active, Recovered, and Deaths cases for each State and the Union Territories.
+     
+     * HOME SCREEN
+  
+       <img src = "Screens/home.jpg" width=250>
  
- <img src = "Screens/home.jpg" width=250>
  
+     * REGIONAL (STATEWISE) STATISTICS
  
- * Viewing statewise cases also available
+      <img src = "Screens/region.jpg" width=250>
  
- *<img src = "Screens/region.jpg" width=250>
- 
- * Can also find the availability of vaccination slots using postal pincode
+     * FINDING VACCINATION SLOTS.
 
- <img src = "Screens/find.jpg" width=250> <img src = "Screens/slots.jpg" width=250>
+      <img src = "Screens/find.jpg" width=250>     <img src = "Screens/slots.jpg" width=250>
 
 
 ### APIs Used
