@@ -4,12 +4,12 @@
      
      * HOME SCREEN
   
-       <img src = "Screens/home.jpg" width=250>
+           <img src = "Screens/home.jpg" width=250>
  
  
      * REGIONAL (STATEWISE) STATISTICS
- 
-      <img src = "Screens/region.jpg" width=250>
+
+           <img src = "Screens/region.jpg" width=250>
  
      * FINDING VACCINATION SLOTS.
 
