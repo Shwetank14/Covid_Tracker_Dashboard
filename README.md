@@ -13,7 +13,7 @@
  
      * FINDING VACCINATION SLOTS.
 
-      <img src = "Screens/find.jpg" width=250>     <img src = "Screens/slots.jpg" width=250>
+          <img src = "Screens/find.jpg" width=250>         <img src = "Screens/slots.jpg" width=250>
 
 
 ### APIs Used
